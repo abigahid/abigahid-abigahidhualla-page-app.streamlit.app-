@@ -3,5 +3,3 @@ pandas
 numpy
 plotly
 scikit-learn
-plotly.express 
-plotly.graph_objects 
